@@ -19,12 +19,29 @@
 
 ---
 
-# 🌟 Project Overview
+#  Project Overview
 
 The **Business Employment Data Analysis** project explores quarterly employment and earnings statistics across multiple industries up to **2023** using **Python**.
 
 This project uncovers employment growth patterns, earnings trends, quarterly industry performance, and percentage differences between original and revised employment figures through insightful visualizations and Exploratory Data Analysis (EDA).
 
+---
+
+
+![Trend of Filled Jobs Across Quarters by Industry](https://github.com/farhansadeed/Python-Business-Employment-Data-Analysis/blob/main/trend_filled_jobs.png)
+                                               Fig 1: Trend of Filled Jobs Across Quarters by Industry
+
+
+![Percentage Difference in Filled Jobs and Earnings by Industry December 2022](https://github.com/farhansadeed/Python-Business-Employment-Data-Analysis/blob/main/percentage_difference_dec_2022.png)
+                                                  Fig 2: Percentage Difference in Filled Jobs and Earnings by Industry December 2022
+
+
+![Heatmap of Percentage Difference in Filled Jobs Across Industries and Quarters](https://github.com/farhansadeed/Python-Business-Employment-Data-Analysis/blob/main/heatmap_filled_jobs_difference.png)
+                                                  Fig 3: Heatmap of Percentage Difference in Filled Jobs Across Industries and Quarters
+
+
+## Dataset Overview
+                                                  
 > 💛 **Goal:** Transform raw employment data into actionable business insights using Python and data visualization.
 
 ---
@@ -32,17 +49,17 @@ This project uncovers employment growth patterns, earnings trends, quarterly ind
 # 🎯 Project Objectives
 
 <table>
-<tr><td>📈 Analyze quarterly filled jobs across industries.</td></tr>
-<tr><td>💼 Compare employment growth trends over time.</td></tr>
-<tr><td>💰 Examine total earnings across industries.</td></tr>
-<tr><td>📊 Calculate percentage differences in employment and earnings.</td></tr>
-<tr><td>🌡️ Visualize trends using heatmaps and charts.</td></tr>
-<tr><td>📉 Identify industries with significant employment changes.</td></tr>
+<tr><td>  Analyze quarterly filled jobs across industries.</td></tr>
+<tr><td>  Compare employment growth trends over time.</td></tr>
+<tr><td>  Examine total earnings across industries.</td></tr>
+<tr><td>  Calculate percentage differences in employment and earnings.</td></tr>
+<tr><td>  Visualize trends using heatmaps and charts.</td></tr>
+<tr><td>  Identify industries with significant employment changes.</td></tr>
 </table>
 
 ---
 
-# 🛠️ Technologies Used
+# 🛠️ Technologies and libraries 
 
 | 💛 Technology | 🚀 Purpose |
 |--------------|------------|
@@ -71,7 +88,7 @@ This project uncovers employment growth patterns, earnings trends, quarterly ind
 
 ---
 
-# 🧹 Data Cleaning & Preparation
+#  Data Cleaning & Preparation
 
 The dataset was cleaned and transformed using **Pandas** before analysis.
 
@@ -143,7 +160,7 @@ The dataset was cleaned and transformed using **Pandas** before analysis.
 
 ---
 
-## 🌡️ Employment Difference Heatmap
+##  Employment Difference Heatmap
 
 > Visualize employment percentage differences across industries and quarters.
 
@@ -159,7 +176,7 @@ The dataset was cleaned and transformed using **Pandas** before analysis.
 
 ---
 
-# 📊 Analysis Performed
+#  Analysis Performed
 
 | 📈 Analysis | 📋 Description |
 |-------------|----------------|
@@ -171,20 +188,20 @@ The dataset was cleaned and transformed using **Pandas** before analysis.
 
 ---
 
-# 🔍 Key Findings
+#  Key Findings
 
-## 👥 Employment Trends
+##  Employment Trends
 
 - Employment varies significantly across industries.
 - Some industries show consistent quarterly growth.
 - Seasonal fluctuations affect hiring in several sectors.
 
-## 💰 Earnings Trends
+##  Earnings Trends
 
 - Revised earnings differ slightly from original estimates.
 - A few industries recorded notable earnings revisions.
 
-## 📈 Industry Performance
+##  Industry Performance
 
 - Industries experienced different recovery rates after revisions.
 - Heatmaps reveal strong and weak employment quarters.
@@ -207,7 +224,7 @@ Business-Employment-Data-Analysis/
 
 ---
 
-# 🚀 Getting Started
+#  Getting Started
 
 ### 1️⃣ Clone Repository
 
@@ -246,7 +263,7 @@ import seaborn as sns
 
 ---
 
-# 📈 Sample Analysis Code
+#  Sample Analysis Code
 
 ### Load Dataset
 
@@ -308,7 +325,7 @@ This analysis helps businesses and policymakers:
 
 # 📚 Skills Demonstrated
 
-| 💛 Technical Skills | 📊 Analytics Skills |
+|  Technical Skills |  Analytics Skills |
 |---------------------|---------------------|
 | Python Programming | Exploratory Data Analysis |
 | Pandas | Business Analytics |
@@ -322,17 +339,14 @@ This analysis helps businesses and policymakers:
 
 <div align="center">
 
-## 💛 Gunti Vinay
+##  Gunti Vinay
 
-### 🌟 Aspiring Data Analyst | Python • SQL • Power BI • Tableau
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/LinkedIn-FFD60A?style=for-the-badge&logo=linkedin&logoColor=black"/>
   <img src="https://img.shields.io/badge/Portfolio-F2C811?style=for-the-badge&logo=google-chrome&logoColor=black"/>
 </p>
-
-### 📊 Turning Employment Data into Actionable Business Insights
 
 </div>
 
